@@ -16,11 +16,11 @@
 * Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
 * Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
 * Je présente mes bonnes pratiques:
-        - Respect des normes et des standards
-        - Auto-formation
-        - Mise en oeuvre des tests(unitaires,d'intégration,fonctionnels,...)
-        - Documentation
-        - Gestion de version, développement collaboratif et gestion d'incidents
+  - Respect des normes et des standards
+  - Auto-formation
+  - Mise en oeuvre des tests(unitaires,d'intégration,fonctionnels,...)
+  - Documentation
+  - Gestion de version, développement collaboratif et gestion d'incidents
 * Je présente la façon don' je m'en sert
 
 3.Pour l'épreuve E5
