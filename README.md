@@ -2,7 +2,6 @@
 # Portfolio d'Alexis Bertin, étudiant en BTS SIO
  ## Objectifs :
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-![logo netbeans](https://fr.wikipedia.org/wiki/NetBeans#/media/Fichier:Apache_NetBeans_Logo.svg)
 
 * **NetBeans**: Environnelent de développement intégré (IDE) utilisé pour ce projet
 * **HTML**: Language de description utilisé pour concevoir les pages
