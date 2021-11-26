@@ -3,7 +3,6 @@
  ## Objectifs :
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
-![logo netbeans](NetBeans_Logo.png)
 **- NetBeans**: Environnelent de développement intégré (IDE) utilisé pour ce projet
 **- HTML**: Language de description utilisé pour concevoir les pages
 **- CSS**: Language de style utilisé pour mettre en forme les pages web
